@@ -12,7 +12,7 @@ npm install wialonjs-api
 
 ## Usage sample
 ```html
-<script scr='dist/wialon-src.js'></script>
+<script src='dist/wialon-src.js'></script>
 <script>
     // create Wialon session instance
     var sess = new W.Session('https://hst-api.wialon.com', {
